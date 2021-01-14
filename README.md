@@ -18,6 +18,8 @@ Rasberry Pi 3
 Ubuntu 20.04  
 ROS noetic  
 
+# 動画
+https://www.youtube.com/watch?v=gXIJZRwR0hM
 
 
 *このパッケージはRyuichiUeda氏の作成したパッケージを改造して作成されたものです．
